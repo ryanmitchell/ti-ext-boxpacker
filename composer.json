@@ -1,0 +1,8 @@
+{
+  "name": "thoughtco/dinein",
+  "type": "tastyigniter-extension",
+  "keywords": ["tastyigniter", "dinein"],
+  "require": {
+    "dvdoug/boxpacker": "~3.9.0"
+  }
+}

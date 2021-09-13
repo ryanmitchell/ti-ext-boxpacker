@@ -1,0 +1,13 @@
+{
+  "code": "thoughtco.boxpacker",
+  "name": "Box packer",
+  "description": "Pack delivery items into boxes for couriers",
+  "version": "1.0.0",
+  "author": "ryanmitchell",
+  "icon": {
+    "class": "fa fa-box",
+    "backgroundColor": "#111",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/ryanmitchell/ti-ext-boxpacker"
+}
